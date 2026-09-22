@@ -1,0 +1,8 @@
+# Core Dependencies
+pydantic>=2.10.0
+pydantic-ai-slim[typesafe]>=2.40.0
+pygame>=2.6.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0
